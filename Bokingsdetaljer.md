@@ -9,7 +9,7 @@
 | **Behandlat av** | Jeanette Emilsson |
 
 ## Vistelse
-| | |
+| Fält | Info |
 |---|---|
 | **Incheckning** | 2026-06-04 |
 | **Utcheckning** | 2026-06-07 |
@@ -28,7 +28,7 @@
 > **Pris per person:** 7 655 SEK (del i dubbelrum)
 
 ## Priser
-| | SEK |
+| Kategori | SEK |
 |---|---|
 | Exkl. moms (6%) | 37 301,89 |
 | Exkl. moms (12%) | 46 714,29 |
