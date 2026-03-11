@@ -42,12 +42,14 @@ När ett nummer har använts, tas det numret bort från hjulet.
 Vi fortsätter tills alla platser i alla lag är fyllda.
 Resultatet gäller – ingen omdragning.
 
-| Lag 1 | Lag 2 | Lag 3 |
-|-------|-------|-------|
-| S1    | S2    | S3    |
-| S4    | S5    | S6    |
-| S7    | S8    | S9    |
-| S10    | S11   | S12   |
+| Lag 1 | Lag 2 |
+|-------|-------|
+| S1    | S2    |
+| S3    | S4    |
+| S5    | S6    |
+| S7    | S8    |
+| S9    | S10   |
+| S11   | S12   |
 
 ### Spelformer
 - Kom överens om format: scramble, matchspel, stableford, etc.
@@ -119,8 +121,8 @@ Resultatet gäller – ingen omdragning.
 - **3 x Frukost**: 5/6, 6/6, 7/6
 - **3 × 3-rätters middagar**: 4/6, 5/6, 6/6
 - Kvällsdrinkar:
-  - 4/6: Lag 1
-  - 5/6: Lag 2
-  - 6/6: Lag 3
+  - 4/6: S1 - S4
+  - 5/6: S5 - S8
+  - 6/6: S9 - S12
 
 ## 8. Övriga Frågor
