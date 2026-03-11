@@ -1,18 +1,21 @@
 # Beerduck – Mötesagenda
 
 ## 1. Närvaro
-- [ ] 1. Jesper Olsson
-- [ ] 2. Patrik Adler
-- [ ] 3. Henrik Södertun
-- [ ] 4. Dorian Lange
-- [ ] 5. Joakim Ahlin
-- [ ] 6. Patrik Persson
-- [ ] 7. Robert Taylor
-- [ ] 8. Anders Bengtsson
-- [ ] 9. No Name
-- [ ] 10. Bo Högberg
-- [ ] 11. Robert Adler
-- [ ] 12. Mattias Linner
+- [ ] Jesper Olsson
+- [ ] Patrik Adler
+- [ ] Henrik Södertun
+- [ ] Dorian Lange
+- [ ] Joakim Ahlin
+- [ ] Patrik Persson
+- [ ] Robert Taylor
+- [ ] Anders Bengtsson
+- [ ] No Name
+- [ ] Bo Högberg
+- [ ] Robert Adler
+- [ ] Mattias Linner
+
+## 1.1 Spelare & Numrering
+
 
 ## 2. Golfbana & Starttidsbokningar
 ### Vilka banor spelar vi varje dag?
@@ -51,42 +54,37 @@ Resultatet gäller – ingen omdragning.
 - Handicapregler och poängsystem
 
 ## 4. Golfbilsbokning
-- Bil 1
-  - 5/6 Fm:
-  - 5/6 Em:
-  - 6/6 Fm:
-  - 6/6 Em:
-  - 7/6 Fm:
-- Bil 2
-  - 5/6 Fm:
-  - 5/6 Em:
-  - 6/6 Fm:
-  - 6/6 Em:
-  - 7/6 Fm:
-- Bil 3
-  - 5/6 Fm:
-  - 5/6 Em:
-  - 6/6 Fm:
-  - 6/6 Em:
-  - 7/6 Fm:
-- Bil 4
-  - 5/6 Fm:
-  - 5/6 Em:
-  - 6/6 Fm:
-  - 6/6 Em:
-  - 7/6 Fm:
-- Bil 5
-  - 5/6 Fm:
-  - 5/6 Em:
-  - 6/6 Fm:
-  - 6/6 Em:
-  - 7/6 Fm:
-- Bil 6
-  - 5/6 Fm:
-  - 5/6 Em:
-  - 6/6 Fm:
-  - 6/6 Em:
-  - 7/6 Fm:
+### Golfbilsbehov per spelare (markera behov)
+| Spelare | 5/6 Fm | 5/6 Em | 6/6 Fm | 6/6 Em | 7/6 Fm |
+|--------|--------|--------|--------|--------|--------|
+| S1     |        |        |        |        |        |
+| S2     |        |        |        |        |        |
+| S3     |        |        |        |        |        |
+| S4     |        |        |        |        |        |
+| S5     |        |        |        |        |        |
+| S6     |        |        |        |        |        |
+| S7     |        |        |        |        |        |
+| S8     |        |        |        |        |        |
+| S9     |        |        |        |        |        |
+| S10    |        |        |        |        |        |
+| S11    |        |        |        |        |        |
+| S12    |        |        |        |        |        |
+
+### Golfbilsbehov per spelare (med lag)
+| Spelare | Lag | 5/6 Fm | 5/6 Em | 6/6 Fm | 6/6 Em | 7/6 Fm |
+|--------|-----|--------|--------|--------|--------|--------|
+| S1     |        |        |        |        |        |     |
+| S2     |        |        |        |        |        |     |
+| S3     |        |        |        |        |        |     |
+| S4     |        |        |        |        |        |     |
+| S5     |        |        |        |        |        |     |
+| S6     |        |        |        |        |        |     |
+| S7     |        |        |        |        |        |     |
+| S8     |        |        |        |        |        |     |
+| S9     |        |        |        |        |        |     |
+| S10    |        |        |        |        |        |     |
+| S11    |        |        |        |        |        |     |
+| S12    |        |        |        |        |        |     |
 
 ## 4. Kläder & Tröjor
 - Vem ansvarar för tröjdesignen?
@@ -118,20 +116,11 @@ Resultatet gäller – ingen omdragning.
 - Samåkningsarrangemang eller gemensamma transferer
 
 ## 7. Mat & Dryck
-- Lagar vi mat själva eller äter vi ute varje kväll?
-- Vem ordnar dryck till resan?
-- Gemensamma middagar eller fria kvällar?
+- **3 x Frukost**: 5/6, 6/6, 7/6
+- **3 × 3-rätters middagar**: 4/6, 5/6, 6/6
+- Kvällsdrinkar:
+  - 4/6: Lag 1
+  - 5/6: Lag 2
+  - 6/6: Lag 3
 
-## 8. Budget & Kostnadsdelning
-- Vad ingår i en gemensam kassa (dryck, mat, greenfees)?
-- Hur delas och samlas kostnaderna in?
-
-## 9. Utrustning
-- Har alla egna klubbor?
-- Behöver någon hyra utrustning?
-
-## 10. Gruppkommunikation
-- Bekräftat gemensamt gruppchatt / WhatsApp?
-- Gemensam resplan eller dokument som alla kan komma åt?
-
-## 10. Övriga Frågor
+## 8. Övriga Frågor
