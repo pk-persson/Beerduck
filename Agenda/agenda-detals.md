@@ -20,44 +20,31 @@
 ## 2. Golfbana & Starttidsbokningar
 ### Vilka banor spelar vi varje dag?
 - 5 × 18-håls greenfees
-  - 5/6 Fm:
-  - 5/6 Em:
-  - 6/6 Fm:
-  - 6/6 Em:
-  - 7/6 Fm:
+  - 4/6 Fm: Sramble
+  - 5/6 Em: Bäst-boll
+  - 5/6 Fm: Single
+  - 6/6 Em: Bäst-boll
+  - 6/6 Fm: Scramble
 
 ## 3. Lagdragning
-### Dra de Tre lagen
-
-#### Så går det till
-- Vi snurrar hjulet en gång per plats.
-- Numret som hjulet stannar på motsvarar spelaren med samma nummer i listan.
-- Spelaren placeras i nästa lediga plats i lagtabellen:
-
-Ordning: Lag 1 → Lag 2 → Lag 3
-Uppifrån och ner, vänster till höger
-
-När ett nummer har använts, tas det numret bort från hjulet.
-
-Vi fortsätter tills alla platser i alla lag är fyllda.
-Resultatet gäller – ingen omdragning.
 
 | Lag 1 | Lag 2 |
 |-------|-------|
-| S1    | S2    |
-| S3    | S4    |
-| S5    | S6    |
-| S7    | S8    |
-| S9    | S10   |
-| S11   | S12   |
+| PP LK | PA LK |
+| Robert T | Vacant |
+| Joakim | Mattias |
+| Dorian | Bobo |
+| Henke  | Bengan |
+| Jesper | Robert A |
 
 ### Spelformer
 - Kom överens om format: scramble, matchspel, stableford, etc.
+- 
 - Handicapregler och poängsystem
 
 ## 4. Golfbilsbokning
 ### Golfbilsbehov per spelare (markera behov)
-| Spelare | 5/6 Fm | 5/6 Em | 6/6 Fm | 6/6 Em | 7/6 Fm |
+| Spelare | 4/6 Fm | 5/6 Fm | 5/6 Em | 6/6 Fm | 6/6 Em |
 |--------|--------|--------|--------|--------|--------|
 | S1     |        |        |        |        |        |
 | S2     |        |        |        |        |        |
@@ -90,6 +77,7 @@ Resultatet gäller – ingen omdragning.
 
 ## 4. Kläder & Tröjor
 - Vem ansvarar för tröjdesignen?
+  - Henke ansvarar för tröjdesign & beställning
 - Kom överens om design, färger och eventuell logotyp
 - Bekräfta tryckdeadlines och kostnader
 
@@ -106,23 +94,39 @@ Resultatet gäller – ingen omdragning.
 ### Rumsfördelning – vem delar rum med vem?
 | Rum   | Person 1 | Person 2 |
 |-------|----------|----------|
-| Rum 1 |          |          |
-| Rum 2 |          |          |
-| Rum 3 |          |          |
-| Rum 4 |          |          |
-| Rum 5 |          |          |
-| Rum 6 |          |          |
+| Rum 1 | Jesper Olsson | Robert Adler |
+| Rum 2 | Patrik Persson | Dorian Lange |
+| Rum 3 | Bo Högberg | Patrik Adler |
+| Rum 4 | Mattias Linner | Anders Bengtsson |
+| Rum 5 | Henrik Södertun | Vacant |
+| Rum 6 | Robert Taylor | Joakum Ahlin |
 
 ## 6. Transport
-- Hur tar sig alla dit?
-- Samåkningsarrangemang eller gemensamma transferer
+- Vi får ta oss dit själva. Samkörning vid behov anordnas individuellt.
 
 ## 7. Mat & Dryck
 - **3 x Frukost**: 5/6, 6/6, 7/6
 - **3 × 3-rätters middagar**: 4/6, 5/6, 6/6
-- Kvällsdrinkar:
-  - 4/6: S1 - S4
-  - 5/6: S5 - S8
-  - 6/6: S9 - S12
-
+ 
+🍸 Drinkbordsansvar – slumpade grupper
+Kväll 1 - 4/6
+Patrik Persson
+Bo Högberg
+Robert Adler
+Jesper Olsson
+Kväll 2 5/6 
+Dorian Lange
+Mattias Linner
+Anders Bengtsson
+No Name
+Kväll 3 6/6
+Patrik Adler
+Henrik Södertun
+Robert Taylor
+Joakim Ahlin
+ 
 ## 8. Övriga Frågor
+Nej
+ 
+
+ 
