@@ -46,34 +46,19 @@
 ### Golfbilsbehov per spelare (markera behov)
 | Spelare | 4/6 Fm | 5/6 Fm | 5/6 Em | 6/6 Fm | 6/6 Em |
 |--------|--------|--------|--------|--------|--------|
-| S1     |        |        |        |        |        |
-| S2     |        |        |        |        |        |
-| S3     |        |        |        |        |        |
-| S4     |        |        |        |        |        |
-| S5     |        |        |        |        |        |
-| S6     |        |        |        |        |        |
-| S7     |        |        |        |        |        |
-| S8     |        |        |        |        |        |
-| S9     |        |        |        |        |        |
-| S10    |        |        |        |        |        |
-| S11    |        |        |        |        |        |
-| S12    |        |        |        |        |        |
+| Patrik P |        |        |   X    |        |    X   |
+| Robert T |        |        |        |        |        |
+| Joakim |        |        |        |        |        |
+| Dorian |        |        |   X    |        |   X    |
+| Henrik |        |        |   X    |        |   X    |
+| Jesper |        |        |        |        |        |
+| Patrik A |        |        |   X    |        |   X    |
+| Oskar |        |        |        |        |        |
+| Mattias |        |        |        |        |        |
+| Bobo |        |        |        |        |        |
+| Bengan |        |    X   |   X    |   X    |   X    |
+| Robert A |        |  X     |    X   |   X    |   X    |
 
-### Golfbilsbehov per spelare (med lag)
-| Spelare | Lag | 5/6 Fm | 5/6 Em | 6/6 Fm | 6/6 Em | 7/6 Fm |
-|--------|-----|--------|--------|--------|--------|--------|
-| S1     |        |        |        |        |        |     |
-| S2     |        |        |        |        |        |     |
-| S3     |        |        |        |        |        |     |
-| S4     |        |        |        |        |        |     |
-| S5     |        |        |        |        |        |     |
-| S6     |        |        |        |        |        |     |
-| S7     |        |        |        |        |        |     |
-| S8     |        |        |        |        |        |     |
-| S9     |        |        |        |        |        |     |
-| S10    |        |        |        |        |        |     |
-| S11    |        |        |        |        |        |     |
-| S12    |        |        |        |        |        |     |
 
 ## 4. Kläder & Tröjor
 - Vem ansvarar för tröjdesignen?
