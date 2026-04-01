@@ -83,7 +83,7 @@
 | Rum 2 | Patrik Persson | Dorian Lange |
 | Rum 3 | Bo Högberg | Patrik Adler |
 | Rum 4 | Mattias Linner | Anders Bengtsson |
-| Rum 5 | Henrik Södertun | Vacant |
+| Rum 5 | Henrik Södertun | Oskar Olsson |
 | Rum 6 | Robert Taylor | Joakum Ahlin |
 
 ## 6. Transport
